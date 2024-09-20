@@ -1,0 +1,19 @@
+{
+  "name": "PepePizzaCoin Token List",
+  "timestamp": "2024-09-19T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xDBc32866be488948e0699C966910ab04aBbC5b6c",
+      "name": "PepePizzaCoin",
+      "symbol": "PEPI",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmSwWfFvD16Nde5DsCU3HrU3CSSJHrZfkBjnv8N8rwyuCS"
+    }
+  ]
+}
